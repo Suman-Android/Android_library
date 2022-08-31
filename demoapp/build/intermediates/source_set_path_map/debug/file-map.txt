@@ -1,0 +1,32 @@
+com.example.demoapplication.demoapp-fragment-1.3.6-0 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\0e5c36e154b26d5fbbbd51e44b8e849f\transformed\fragment-1.3.6\res
+com.example.demoapplication.demoapp-lifecycle-livedata-core-2.5.0-1 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\311267ae15716f1926e3cb47a9139f83\transformed\lifecycle-livedata-core-2.5.0\res
+com.example.demoapplication.demoapp-lifecycle-runtime-2.5.0-2 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\4ed68fd032ed0a06b1142a99614fba40\transformed\lifecycle-runtime-2.5.0\res
+com.example.demoapplication.demoapp-core-ktx-1.8.0-3 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\572ade30dbdf389da2d665c1773ba7dd\transformed\core-ktx-1.8.0\res
+com.example.demoapplication.demoapp-lifecycle-viewmodel-2.5.0-4 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\5a357de3178335fbb478ae2d2256ee4b\transformed\lifecycle-viewmodel-2.5.0\res
+com.example.demoapplication.demoapp-startup-runtime-1.1.1-5 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\6a2028f52fc179f1839151d18e730fc4\transformed\startup-runtime-1.1.1\res
+com.example.demoapplication.demoapp-appcompat-resources-1.5.0-6 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\6f7d3fe5e8fba274b5f8dba36fb8a5ef\transformed\appcompat-resources-1.5.0\res
+com.example.demoapplication.demoapp-material-1.6.1-7 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\71986621b5dce25d8cc5bdb1a3702398\transformed\material-1.6.1\res
+com.example.demoapplication.demoapp-emoji2-1.2.0-8 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\7d24eb971bf44cc276bb8eb0902d78ae\transformed\emoji2-1.2.0\res
+com.example.demoapplication.demoapp-appcompat-1.5.0-9 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\8f916c20fff5eb6ab794af3a823d48c3\transformed\appcompat-1.5.0\res
+com.example.demoapplication.demoapp-constraintlayout-2.1.4-10 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\902caa944bb49d67d514824bae272551\transformed\constraintlayout-2.1.4\res
+com.example.demoapplication.demoapp-lifecycle-process-2.4.1-11 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\9160cc5643db6a8dd65f137d7e5ad340\transformed\lifecycle-process-2.4.1\res
+com.example.demoapplication.demoapp-coordinatorlayout-1.1.0-12 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\9a194e6a93e6bf2574586d547626cac7\transformed\coordinatorlayout-1.1.0\res
+com.example.demoapplication.demoapp-recyclerview-1.1.0-13 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\a91dd7dcb8a83b3ac8f681e7a02b58ca\transformed\recyclerview-1.1.0\res
+com.example.demoapplication.demoapp-emoji2-views-helper-1.2.0-14 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\b8fc5c7a60fd63f95636f7d90259d367\transformed\emoji2-views-helper-1.2.0\res
+com.example.demoapplication.demoapp-viewpager2-1.0.0-15 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\c91acd83985918577d4fcc2d5cf46b6f\transformed\viewpager2-1.0.0\res
+com.example.demoapplication.demoapp-activity-1.5.0-16 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\dbdb4be2ebdcc2d95ac3cc250457caf9\transformed\activity-1.5.0\res
+com.example.demoapplication.demoapp-cardview-1.0.0-17 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\df26ad1a006cff1897edfd21ce1d4aff\transformed\cardview-1.0.0\res
+com.example.demoapplication.demoapp-annotation-experimental-1.1.0-18 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\e410412ca825e9279974e0bec1dd0251\transformed\annotation-experimental-1.1.0\res
+com.example.demoapplication.demoapp-savedstate-1.2.0-19 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\e6d23063f4fe221a1041700817fb387e\transformed\savedstate-1.2.0\res
+com.example.demoapplication.demoapp-transition-1.2.0-20 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\e8287d013d849207fac9a059237f1b16\transformed\transition-1.2.0\res
+com.example.demoapplication.demoapp-drawerlayout-1.1.1-21 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\ec47c9100df7e15f40f3f13e77dd98f5\transformed\drawerlayout-1.1.1\res
+com.example.demoapplication.demoapp-core-1.8.0-22 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\fa34371f21c617d132f65b5ca92af2b1\transformed\core-1.8.0\res
+com.example.demoapplication.demoapp-lifecycle-viewmodel-savedstate-2.5.0-23 C:\Users\Suman.1.Singh\.gradle\caches\transforms-3\fd4629d6fdd29c82d9419443e94613d6\transformed\lifecycle-viewmodel-savedstate-2.5.0\res
+com.example.demoapplication.demoapp-pngs-24 D:\Github Projects\DemoApplication2\demoapp\build\generated\res\pngs\debug
+com.example.demoapplication.demoapp-resValues-25 D:\Github Projects\DemoApplication2\demoapp\build\generated\res\resValues\debug
+com.example.demoapplication.demoapp-rs-26 D:\Github Projects\DemoApplication2\demoapp\build\generated\res\rs\debug
+com.example.demoapplication.demoapp-packageDebugResources-27 D:\Github Projects\DemoApplication2\demoapp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.demoapplication.demoapp-packageDebugResources-28 D:\Github Projects\DemoApplication2\demoapp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.demoapplication.demoapp-merged_res-29 D:\Github Projects\DemoApplication2\demoapp\build\intermediates\merged_res\debug
+com.example.demoapplication.demoapp-debug-30 D:\Github Projects\DemoApplication2\demoapp\src\debug\res
+com.example.demoapplication.demoapp-main-31 D:\Github Projects\DemoApplication2\demoapp\src\main\res
